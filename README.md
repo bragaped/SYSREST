@@ -1,2 +1,2 @@
 # SYSREST
-SYSREST - Meu TCC da Faculdae
+SYSREST - Meu TCC da Faculdade
